@@ -1,1 +1,4 @@
 content/
+artist_log
+*.log
+log
